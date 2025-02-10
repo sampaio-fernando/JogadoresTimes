@@ -1,0 +1,11 @@
+C:\Users\sampa\Documents\POO\joagadoresTimes\bin\Debug\joagadoresTimes.exe.config
+C:\Users\sampa\Documents\POO\joagadoresTimes\bin\Debug\joagadoresTimes.exe
+C:\Users\sampa\Documents\POO\joagadoresTimes\bin\Debug\joagadoresTimes.pdb
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.csproj.AssemblyReference.cache
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.CadJogador.resources
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.Form1.resources
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.Properties.Resources.resources
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.csproj.GenerateResource.cache
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.csproj.CoreCompileInputs.cache
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.exe
+C:\Users\sampa\Documents\POO\joagadoresTimes\obj\Debug\joagadoresTimes.pdb
