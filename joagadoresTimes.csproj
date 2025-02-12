@@ -81,6 +81,9 @@
     <EmbeddedResource Include="CadJogador.resx">
       <DependentUpon>CadJogador.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CadTime.resx">
+      <DependentUpon>CadTime.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
