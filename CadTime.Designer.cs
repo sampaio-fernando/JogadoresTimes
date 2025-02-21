@@ -90,6 +90,7 @@
             // 
             this.txtNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNome.Location = new System.Drawing.Point(24, 121);
+            this.txtNome.MaxLength = 150;
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(537, 30);
             this.txtNome.TabIndex = 25;
@@ -109,6 +110,7 @@
             // 
             this.txtNomeFantasia.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNomeFantasia.Location = new System.Drawing.Point(24, 191);
+            this.txtNomeFantasia.MaxLength = 70;
             this.txtNomeFantasia.Name = "txtNomeFantasia";
             this.txtNomeFantasia.Size = new System.Drawing.Size(537, 30);
             this.txtNomeFantasia.TabIndex = 27;
@@ -147,6 +149,7 @@
             // 
             this.txtEndereco.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEndereco.Location = new System.Drawing.Point(24, 262);
+            this.txtEndereco.MaxLength = 100;
             this.txtEndereco.Name = "txtEndereco";
             this.txtEndereco.Size = new System.Drawing.Size(537, 30);
             this.txtEndereco.TabIndex = 31;
@@ -166,6 +169,7 @@
             // 
             this.txtTelefone.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTelefone.Location = new System.Drawing.Point(616, 191);
+            this.txtTelefone.MaxLength = 13;
             this.txtTelefone.Name = "txtTelefone";
             this.txtTelefone.Size = new System.Drawing.Size(193, 30);
             this.txtTelefone.TabIndex = 33;
@@ -185,6 +189,7 @@
             // 
             this.txtEscudo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEscudo.Location = new System.Drawing.Point(24, 336);
+            this.txtEscudo.MaxLength = 100;
             this.txtEscudo.Name = "txtEscudo";
             this.txtEscudo.Size = new System.Drawing.Size(537, 30);
             this.txtEscudo.TabIndex = 35;
@@ -204,9 +209,10 @@
             // 
             this.txtEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEmail.Location = new System.Drawing.Point(24, 411);
+            this.txtEmail.MaxLength = 70;
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(537, 30);
-            this.txtEmail.TabIndex = 37;
+            this.txtEmail.TabIndex = 70;
             // 
             // label8
             // 
@@ -223,6 +229,7 @@
             // 
             this.txtEstadio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEstadio.Location = new System.Drawing.Point(24, 482);
+            this.txtEstadio.MaxLength = 70;
             this.txtEstadio.Name = "txtEstadio";
             this.txtEstadio.Size = new System.Drawing.Size(537, 30);
             this.txtEstadio.TabIndex = 39;

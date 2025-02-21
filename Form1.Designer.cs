@@ -37,6 +37,7 @@
             this.btConsulJogadores = new System.Windows.Forms.Button();
             this.btConsulTimes = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.lbInfo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -143,12 +144,20 @@
             this.label3.Size = new System.Drawing.Size(717, 544);
             this.label3.TabIndex = 9;
             // 
+            // lbInfo
+            // 
+            this.lbInfo.Location = new System.Drawing.Point(21, 451);
+            this.lbInfo.Name = "lbInfo";
+            this.lbInfo.Size = new System.Drawing.Size(292, 61);
+            this.lbInfo.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(967, 536);
+            this.Controls.Add(this.lbInfo);
             this.Controls.Add(this.btConsulTimes);
             this.Controls.Add(this.btConsulJogadores);
             this.Controls.Add(this.btCadTimes);
@@ -175,6 +184,7 @@
         private System.Windows.Forms.Button btConsulJogadores;
         private System.Windows.Forms.Button btConsulTimes;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lbInfo;
     }
 }
 

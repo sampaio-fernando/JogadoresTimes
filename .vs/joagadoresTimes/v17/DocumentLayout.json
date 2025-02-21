@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|c:\\users\\sampa\\documents\\poo\\joagadorestimes\\cadtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|solutionrelative:cadtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|c:\\users\\sampa\\documents\\poo\\joagadorestimes\\dao\\jogadordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|solutionrelative:dao\\jogadordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|c:\\users\\sampa\\documents\\poo\\joagadorestimes\\dao\\timedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|solutionrelative:dao\\timedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|c:\\users\\sampa\\documents\\poo\\joagadorestimes\\cadjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|solutionrelative:cadjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|c:\\users\\sampa\\documents\\poo\\joagadorestimes\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|solutionrelative:data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|c:\\users\\sampa\\documents\\poo\\joagadorestimes\\cadtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ED01DFA-7DBE-4428-BA93-45AB919FDF28}|joagadoresTimes.csproj|solutionrelative:cadtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\Data\\Conexao.cs",
+              "RelativeDocumentMoniker": "Data\\Conexao.cs",
+              "ToolTip": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\Data\\Conexao.cs",
+              "RelativeToolTip": "Data\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:43:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CadTime.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\CadTime.cs",
               "RelativeDocumentMoniker": "CadTime.cs",
               "ToolTip": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\CadTime.cs [Design]",
               "RelativeToolTip": "CadTime.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T14:34:36.22Z",
+              "WhenOpened": "2025-02-21T01:23:02.818Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CadJogador.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\CadJogador.cs",
               "RelativeDocumentMoniker": "CadJogador.cs",
               "ToolTip": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\CadJogador.cs [Design]",
               "RelativeToolTip": "CadJogador.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T01:42:56.404Z",
+              "WhenOpened": "2025-02-21T01:11:59.211Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "TimeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\DAO\\TimeDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\TimeDAO.cs",
+              "ToolTip": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\DAO\\TimeDAO.cs",
+              "RelativeToolTip": "DAO\\TimeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T23:52:19.792Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T00:50:26.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogadorDAO.cs",
+              "DocumentMoniker": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\DAO\\JogadorDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\JogadorDAO.cs",
+              "ToolTip": "C:\\Users\\sampa\\Documents\\POO\\joagadoresTimes\\DAO\\JogadorDAO.cs",
+              "RelativeToolTip": "DAO\\JogadorDAO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:49:52.872Z",
+              "EditorCaption": ""
             }
           ]
         }

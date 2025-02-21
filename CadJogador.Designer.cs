@@ -102,6 +102,7 @@
             // 
             this.txtNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNome.Location = new System.Drawing.Point(47, 118);
+            this.txtNome.MaxLength = 50;
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(352, 30);
             this.txtNome.TabIndex = 1;
@@ -159,6 +160,7 @@
             // 
             this.txtCpf.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCpf.Location = new System.Drawing.Point(273, 193);
+            this.txtCpf.MaxLength = 11;
             this.txtCpf.Name = "txtCpf";
             this.txtCpf.Size = new System.Drawing.Size(201, 30);
             this.txtCpf.TabIndex = 5;
@@ -190,6 +192,7 @@
             // 
             this.txtRg.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtRg.Location = new System.Drawing.Point(496, 193);
+            this.txtRg.MaxLength = 7;
             this.txtRg.Name = "txtRg";
             this.txtRg.Size = new System.Drawing.Size(201, 30);
             this.txtRg.TabIndex = 6;
@@ -250,6 +253,7 @@
             // 
             this.txtTelefone.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTelefone.Location = new System.Drawing.Point(423, 310);
+            this.txtTelefone.MaxLength = 13;
             this.txtTelefone.Name = "txtTelefone";
             this.txtTelefone.Size = new System.Drawing.Size(201, 30);
             this.txtTelefone.TabIndex = 10;
@@ -270,6 +274,7 @@
             // 
             this.txtNacionalidade.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNacionalidade.Location = new System.Drawing.Point(457, 118);
+            this.txtNacionalidade.MaxLength = 70;
             this.txtNacionalidade.Name = "txtNacionalidade";
             this.txtNacionalidade.Size = new System.Drawing.Size(348, 30);
             this.txtNacionalidade.TabIndex = 2;
@@ -290,6 +295,7 @@
             // 
             this.txtEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEmail.Location = new System.Drawing.Point(47, 310);
+            this.txtEmail.MaxLength = 70;
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(353, 30);
             this.txtEmail.TabIndex = 9;
@@ -330,6 +336,7 @@
             // 
             this.txtApelido.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtApelido.Location = new System.Drawing.Point(43, 496);
+            this.txtApelido.MaxLength = 50;
             this.txtApelido.Name = "txtApelido";
             this.txtApelido.Size = new System.Drawing.Size(352, 30);
             this.txtApelido.TabIndex = 12;
@@ -349,6 +356,7 @@
             // 
             this.txtPosicao.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPosicao.Location = new System.Drawing.Point(459, 496);
+            this.txtPosicao.MaxLength = 50;
             this.txtPosicao.Name = "txtPosicao";
             this.txtPosicao.Size = new System.Drawing.Size(238, 30);
             this.txtPosicao.TabIndex = 13;
@@ -400,6 +408,7 @@
             // 
             this.txtFoto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtFoto.Location = new System.Drawing.Point(44, 565);
+            this.txtFoto.MaxLength = 70;
             this.txtFoto.Name = "txtFoto";
             this.txtFoto.Size = new System.Drawing.Size(352, 30);
             this.txtFoto.TabIndex = 15;
@@ -419,6 +428,7 @@
             // 
             this.txtTimeAnterior.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTimeAnterior.Location = new System.Drawing.Point(456, 565);
+            this.txtTimeAnterior.MaxLength = 100;
             this.txtTimeAnterior.Name = "txtTimeAnterior";
             this.txtTimeAnterior.Size = new System.Drawing.Size(352, 30);
             this.txtTimeAnterior.TabIndex = 16;
@@ -532,7 +542,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.ForestGreen;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(1136, 807);
             this.Controls.Add(this.btSalvar);
             this.Controls.Add(this.btCancelar);
